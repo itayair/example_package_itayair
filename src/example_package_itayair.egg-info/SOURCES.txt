@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/divide/__init__.py
+src/divide/divide_by_three.py
+src/example_package_itayair.egg-info/PKG-INFO
+src/example_package_itayair.egg-info/SOURCES.txt
+src/example_package_itayair.egg-info/dependency_links.txt
+src/example_package_itayair.egg-info/top_level.txt
+src/multiply/__init__.py
+src/multiply/multiply_by_three.py
