@@ -5,7 +5,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "example_package_itayair",
-    version = "0.0.4",
+    version = "0.0.6",
     author = "Itay Yair",
     author_email = "iy24592@gmail.com",
     description = "A simple Python package",
