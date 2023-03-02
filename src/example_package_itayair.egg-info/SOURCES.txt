@@ -1,7 +1,6 @@
 LICENSE.txt
 README.md
 pyproject.toml
-setup.cfg
 setup.py
 src/divide/__init__.py
 src/divide/divide_by_three.py
